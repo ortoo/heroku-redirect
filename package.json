@@ -1,0 +1,25 @@
+{
+  "name": "heroku-redirect",
+  "version": "1.0.0",
+  "description": "Simple redirect server returning 301 for everything",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ortoo/heroku-redirect.git"
+  },
+  "author": "james@ortootech.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ortoo/heroku-redirect/issues"
+  },
+  "homepage": "https://github.com/ortoo/heroku-redirect",
+  "dependencies": {
+    "koa": "^0.21.0"
+  },
+  "engines": {
+    "iojs": "2.5.x"
+  }
+}
