@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ortoo/heroku-redirect",
   "dependencies": {
-    "koa": "^0.21.0"
+    "koa": "^1.2.4"
   },
   "engines": {
     "iojs": "2.5.x"
